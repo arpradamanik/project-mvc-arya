@@ -1,0 +1,19 @@
+{
+    "name": "acer/pbwl-mvc-eccomerce",
+    "description": "Praktikum SI-MVC Pemrograman Berbasis Web Lanjutan 2023",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Arya Pratama Damanik",
+            "email": "aryapratamadmk@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "filp/whoops": "^2.14"
+    }
+}
